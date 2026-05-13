@@ -20,6 +20,8 @@ Financial teams need a clear, consolidated view of business performance across m
 
 ---
 
+## 📸 Dashboard Preview
+![Financial Performance Dashboard](financial-dashboard.png)
 ## 📌 Dashboard Features
 
 ### KPI Cards
